@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pham Ha Giang
-- 👀 I’m interested in coding, listening, watching youtube
-- 🌱 I’m currently learning software engineering at TDTU
-
+- 👀 I’m a front end developer at IGap logistic
+- 🌱 I can create something with Reactjs and Vuejs :))
+- Reach me: https://www.linkedin.com/in/giang-ph%E1%BA%A1m-3ba288229
 
 <!---
 phamgiang0167/phamgiang0167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
