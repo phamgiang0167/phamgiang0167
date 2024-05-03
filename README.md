@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pham Ha Giang (My github account)
-- 👀 I’m a front end developer at IGap logistic
-- 🌱 I can create something with Reactjs and Vuejs :))
+- 👀 I’m a web developer at IGap logistic
+- 🌱 I can create awesome web application with Golang, Reactjs, Vuejs
 - Reach me: https://www.linkedin.com/in/giang-ph%E1%BA%A1m-3ba288229
 
 <!---
